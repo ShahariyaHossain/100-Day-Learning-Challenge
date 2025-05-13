@@ -1,0 +1,11 @@
+# Ignore all log files
+*.log
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore .env file for environment variables
+.venv
+
+# Ignore node_modules if working with Node.js
+node_modules/
